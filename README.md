@@ -6,7 +6,7 @@
 
 -> This is To Do List app using react, redux and localStorage of your browser for data.<br/>
 -> You can add and remove your to do list it is very simple.<br/>
--> Open [Google clone](https://clone-c7235.web.app/) to view it in the browser.
+-> Open [To Do List app](https://main.d29fo7cst6sra9.amplifyapp.com/) to view it in the browser.
 
 #### Used Technologies :
 
