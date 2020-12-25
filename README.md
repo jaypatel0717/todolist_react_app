@@ -2,7 +2,7 @@
 
 <br/>
 
-![Alt text](https://github.com/jaypatel0717/google_clone/blob/master/src/Image/homescreen.png)
+![Alt text](https://github.com/jaypatel0717/todolist_react_app/blob/main/public/home.png)
 
 -> This is To Do List app using react, redux and localStorage of your browser for data.<br/>
 -> You can add and remove your to do list it is very simple.<br/>
