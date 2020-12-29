@@ -1,4 +1,4 @@
-### To Do List React Application
+## To Do List React Application
 
 <br/>
 
@@ -14,7 +14,7 @@
 2. Redux
 3. Deployed app on AWS
 
-#### To start this application
+#### To start this application :
 
 ```
 Go to -> cd todolist_react_app
@@ -37,7 +37,7 @@ npm install react-router-dom
 
 1. index.css
 
-#### Create new React application:
+#### Create new React application :
 
 ```
 npx create-react-app my-app
